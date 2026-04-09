@@ -6,7 +6,6 @@ test.sh
 test_augment_all.sh
 prep_elastic.sh
 data_aug/
-data_aug.tar.gz
 offline/
 output/
 ensure_elasticsearch.sh
