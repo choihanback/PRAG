@@ -8,11 +8,14 @@ prep_elastic.sh
 data_aug/
 offline/
 output/
+data_qce/
+checkpoints_qce/
+output_qce/
 ensure_elasticsearch.sh
 test2.sh
 test3.sh
 run*.sh
+!run_qce*.sh
 case.json
 eval*.md
 eval*.tsv
-
