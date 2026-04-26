@@ -1,0 +1,170 @@
+[
+    {
+        "test_id": 0,
+        "question": "What is George Rankin's occupation?",
+        "answer": [
+            "politician",
+            "political leader",
+            "political figure",
+            "polit.",
+            "pol"
+        ],
+        "augment": [
+            {
+                "pid": 0,
+                "passage": "George Rankin Major General George James Rankin, (1 May 1887 \u2013 28 December 1957) was an Australian soldier and politician. He served in both the House of Representatives and the Senate, representing the Country Party of Australia. Rankin was born at Bamawm, Victoria, the tenth child of Irish farmer James Rankin and Sarah, n\u00e9e Gallagher. He attended the local state school and became a farmer. In 1907, he joined the Militia, and was commissioned in the 9th Light Horse Regiment in 1909. He married Annie Isabella Oliver at Rochester, Victoria on 7 July 1912. In 1914, he was appointed a",
+                "llama3.2-1b-instruct_rewrite": "A prominent figure in Australian politics, George Rankin played a pivotal role in shaping the country's governance. As a soldier and politician, he rose to prominence, holding various positions within the nation's legislative bodies. Born on May 1, 1887, in Bamawm, Victoria, Rankin's early life was marked by a strong connection to the land and a passion for agriculture. He attended the local state school and later pursued a career as a farmer.\n\nIn 1907, Rankin joined the militia, and his service was marked by distinguished service. He was commissioned in the 9th Light Horse Regiment in 1909, and his military career was distinguished by his bravery and leadership. Rankin's experiences in the military laid the foundation for his future endeavors.\n\nIn 1912, Rankin married Annie Isabella Oliver, and the couple began building a life together. However, their union was cut short when Annie passed away in 1914. The loss was a devastating blow to Rankin, and he went on to dedicate himself to his work in politics.\n\nAs a politician, Rankin was a member of the Country Party of Australia, a position he held until his passing in 1957. Throughout his career, he played a significant role in shaping Australia's governance, and his legacy continues to be felt today.",
+                "llama3.2-1b-instruct_qa": [
+                    {
+                        "question": "What is the birthplace of George Rankin?",
+                        "answer": "Bamawm, Victoria",
+                        "full_answer": "George Rankin was born at Bamawm, Victoria."
+                    },
+                    {
+                        "question": "What is George Rankin's occupation?",
+                        "answer": "Australian soldier and politician",
+                        "full_answer": "George Rankin was an Australian soldier and politician."
+                    },
+                    {
+                        "question": "When was George Rankin born?",
+                        "answer": "1 May 1887",
+                        "full_answer": "George Rankin was born on 1 May 1887."
+                    }
+                ]
+            },
+            {
+                "pid": 1,
+                "passage": "was buried, and was survived by his wife. George Rankin Major General George James Rankin, (1 May 1887 \u2013 28 December 1957) was an Australian soldier and politician. He served in both the House of Representatives and the Senate, representing the Country Party of Australia. Rankin was born at Bamawm, Victoria, the tenth child of Irish farmer James Rankin and Sarah, n\u00e9e Gallagher. He attended the local state school and became a farmer. In 1907, he joined the Militia, and was commissioned in the 9th Light Horse Regiment in 1909. He married Annie Isabella Oliver at Rochester, Victoria on 7",
+                "llama3.2-1b-instruct_rewrite": "A life of service and dedication lay before him, as George Rankin, a renowned Australian soldier and politician, bid farewell to this world on 28 December 1957. Born on 1 May 1887 at Bamawm, Victoria, in the rugged landscape of the Great Southern region, Rankin was the tenth of twelve children to James Rankin, a pioneering Irish farmer, and Sarah Gallagher. As a young man, he pursued his passion for farming, which eventually led him to a life of public service. In 1907, he enlisted in the Militia, and after completing his military service, he was commissioned into the 9th Light Horse Regiment in 1909. His remarkable career was marked by a series of distinguished appointments, including his tenure as a member of the House of Representatives and the Senate, representing the Country Party of Australia. Rankin's life was cut short when he passed away on 28 December 1957, leaving behind a legacy of service and a devoted wife, Annie Isabella Oliver, whom he had married in Rochester, Victoria.",
+                "llama3.2-1b-instruct_qa": [
+                    {
+                        "question": "What was George Rankin's birthplace?",
+                        "answer": "Bamawm, Victoria",
+                        "full_answer": "He was born at Bamawm, Victoria."
+                    },
+                    {
+                        "question": "What was George Rankin's profession?",
+                        "answer": "Australian soldier and politician",
+                        "full_answer": "He served in both the House of Representatives and the Senate."
+                    },
+                    {
+                        "question": "When was George Rankin born?",
+                        "answer": "1 May 1887",
+                        "full_answer": "He was born on 1 May 1887."
+                    }
+                ]
+            },
+            {
+                "pid": 2,
+                "passage": "George Claus Rankin Sir George Claus Rankin PC (12 August 1877 \u2013 8 April 1946) was a British judge in India. Rankin was born in Lamington, Lanarkshire, the son of Rev. Robert Rankin. He was educated at the University of Edinburgh and Trinity College, Cambridge. He as admitted at Lincoln's Inn and called to the bar in 1904. He served in the First World War with the Royal Garrison Artillery. He went to India in 1918 and served first as a puisne judge of the High Court of Calcutta, and then as Chief Justice, from 1926 to 1934. While in",
+                "llama3.2-1b-instruct_rewrite": "Sir George Claus Rankin, a distinguished jurist with a storied career in the British court system, left an indelible mark on India's legal landscape. Born in Lamington, Lanarkshire, in 1877, he was the eldest son of Rev. Robert Rankin, a respected figure in the local community. Rankin's academic pursuits took him to the University of Edinburgh, where he earned a Bachelor of Arts degree, and Trinity College, Cambridge, where he was awarded a Master of Arts degree. His formal education was followed by a successful career in the legal profession, with his call to the bar taking place at Lincoln's Inn in 1904.\n\nRankin's distinguished career in the British court system spanned several decades, during which he served in various capacities. His tenure as puisne judge of the High Court of Calcutta from 1918 to 1926 marked an important milestone, while his appointment as Chief Justice from 1926 to 1934 cemented his position as a leading figure in Indian jurisprudence. Throughout his illustrious career, Rankin demonstrated unwavering dedication to the principles of justice and the rule of law, leaving a lasting legacy in the annals of Indian legal history.",
+                "llama3.2-1b-instruct_qa": [
+                    {
+                        "question": "What is the capital of France?",
+                        "answer": "Paris",
+                        "full_answer": "The capital of France is Paris."
+                    },
+                    {
+                        "question": "Who was George Claus Rankin's father?",
+                        "answer": "Rev. Robert Rankin",
+                        "full_answer": "Rev. Robert Rankin"
+                    },
+                    {
+                        "question": "When did George Claus Rankin serve as Chief Justice of the High Court of Calcutta?",
+                        "answer": "1926 to 1934",
+                        "full_answer": "He served as a puisne judge of the High Court of Calcutta from 1918 to 1926."
+                    }
+                ]
+            }
+        ],
+        "passages": [
+            "George Rankin Major General George James Rankin, (1 May 1887 \u2013 28 December 1957) was an Australian soldier and politician. He served in both the House of Representatives and the Senate, representing the Country Party of Australia. Rankin was born at Bamawm, Victoria, the tenth child of Irish farmer James Rankin and Sarah, n\u00e9e Gallagher. He attended the local state school and became a farmer. In 1907, he joined the Militia, and was commissioned in the 9th Light Horse Regiment in 1909. He married Annie Isabella Oliver at Rochester, Victoria on 7 July 1912. In 1914, he was appointed a",
+            "was buried, and was survived by his wife. George Rankin Major General George James Rankin, (1 May 1887 \u2013 28 December 1957) was an Australian soldier and politician. He served in both the House of Representatives and the Senate, representing the Country Party of Australia. Rankin was born at Bamawm, Victoria, the tenth child of Irish farmer James Rankin and Sarah, n\u00e9e Gallagher. He attended the local state school and became a farmer. In 1907, he joined the Militia, and was commissioned in the 9th Light Horse Regiment in 1909. He married Annie Isabella Oliver at Rochester, Victoria on 7",
+            "George Claus Rankin Sir George Claus Rankin PC (12 August 1877 \u2013 8 April 1946) was a British judge in India. Rankin was born in Lamington, Lanarkshire, the son of Rev. Robert Rankin. He was educated at the University of Edinburgh and Trinity College, Cambridge. He as admitted at Lincoln's Inn and called to the bar in 1904. He served in the First World War with the Royal Garrison Artillery. He went to India in 1918 and served first as a puisne judge of the High Court of Calcutta, and then as Chief Justice, from 1926 to 1934. While in"
+        ]
+},
+{
+        "test_id": 0,
+        "question": "조지 랭킨(George Rankin)의 직업은 무엇인가요?",
+        "answer": [
+            "정치인",
+            "정치 지도자",
+            "정치계 인물",
+            "정치인(약어)",
+            "정치(약어)"
+        ],
+        "augment": [
+            {
+                "pid": 0,
+                "passage": "조지 랭킨(George Rankin) 소장, 본명 조지 제임스 랭킨(1887년 5월 1일 ~ 1957년 12월 28일)은 호주의 군인이자 정치인이었습니다. 그는 호주 국민당(Country Party)을 대표하여 하원과 상원에서 모두 활동했습니다. 랭킨은 빅토리아주 바맘(Bamawm)에서 아일랜드 출신 농부 제임스 랭킨과 사라(본성 갤러허) 사이의 열 번째 자녀로 태어났습니다. 그는 현지 주립 학교를 다녔으며 농부가 되었습니다. 1907년 민병대에 입대했고, 1909년 제9 경기병 연대(9th Light Horse Regiment)의 장교로 임명되었습니다. 1912년 7월 7일 빅토리아주 로체스터에서 애니 이사벨라 올리버와 결혼했습니다. 1914년에는...",
+                "llama3.2-1b-instruct_rewrite": "호주 정치의 저명한 인물인 조지 랭킨은 국가 통치 체제를 형성하는 데 중추적인 역할을 했습니다. 군인이자 정치인으로서 그는 국가 입법 기관 내에서 다양한 직책을 맡으며 두각을 나타냈습니다. 1887년 5월 1일 빅토리아주 바맘에서 태어난 랭킨의 어린 시절은 땅과의 강한 유대감과 농업에 대한 열정으로 점철되었습니다. 그는 지역 주립 학교를 졸업한 후 농부로서의 삶을 살았습니다.\n\n1907년 랭킨은 민병대에 입대하여 탁월한 복무 기록을 남겼습니다. 1909년 제9 경기병 연대의 장교로 임명되었으며, 그의 군 경력은 용맹함과 리더십으로 빛났습니다. 군에서의 경험은 그의 향후 행보에 초석이 되었습니다.\n\n1912년 랭킨은 애니 이사벨라 올리버와 결혼하여 가정을 꾸렸습니다. 그러나 1914년 애니가 세상을 떠나면서 그들의 결합은 짧게 끝났습니다. 이 상실은 랭킨에게 큰 충격이었으며, 이후 그는 정치 활동에 전념하게 되었습니다.\n\n정치인으로서 랭킨은 호주 국민당의 일원이었으며, 1957년 사망할 때까지 그 자리를 지켰습니다. 경력 전반에 걸쳐 그는 호주의 거버넌스를 구축하는 데 중요한 역할을 했으며, 그의 유산은 오늘날까지 이어지고 있습니다.",
+                "llama3.2-1b-instruct_qa": [
+                    {
+                        "question": "조지 랭킨의 출생지는 어디인가요?",
+                        "answer": "빅토리아주 바맘",
+                        "full_answer": "조지 랭킨은 빅토리아주 바맘에서 태어났습니다."
+                    },
+                    {
+                        "question": "조지 랭킨의 직업은 무엇인가요?",
+                        "answer": "호주의 군인이자 정치인",
+                        "full_answer": "조지 랭킨은 호주의 군인이자 정치인이었습니다."
+                    },
+                    {
+                        "question": "조지 랭킨은 언제 태어났나요?",
+                        "answer": "1887년 5월 1일",
+                        "full_answer": "조지 랭킨은 1887년 5월 1일에 태어났습니다."
+                    }
+                ]
+            },
+            {
+                "pid": 1,
+                "passage": "매장되었으며, 유족으로는 아내가 있습니다. 조지 랭킨 소장, 본명 조지 제임스 랭킨(1887년 5월 1일 ~ 1957년 12월 28일)은 호주의 군인이자 정치인이었습니다. 그는 호주 국민당을 대표하여 하원과 상원에서 모두 활동했습니다. 랭킨은 빅토리아주 바맘에서 아일랜드 출신 농부 제임스 랭킨과 사라(본성 갤러허) 사이의 열 번째 자녀로 태어났습니다. 그는 현지 주립 학교를 다녔으며 농부가 되었습니다. 1907년 민병대에 입대했고, 1909년 제9 경기병 연대의 장교로 임명되었습니다. 그는 7일 빅토리아주 로체스터에서 애니 이사벨라 올리버와 결혼했습니다.",
+                "llama3.2-1b-instruct_rewrite": "헌신과 봉사의 삶을 뒤로하고, 저명한 호주의 군인이자 정치인인 조지 랭킨은 1957년 12월 28일 세상을 떠났습니다. 1887년 5월 1일 빅토리아주 바맘의 거친 남부 지역에서 태어난 랭킨은 아일랜드 개척 농부인 제임스 랭킨과 사라 갤러허 부부의 12남매 중 열 번째로 태어났습니다. 젊은 시절 그는 농업에 대한 열정을 쏟았고, 이는 결국 공직 생활로 이어졌습니다. 1907년 민병대에 자원 입대한 그는 군 복무를 마친 후 1909년 제9 경기병 연대의 장교로 임명되었습니다. 그의 화려한 경력은 호주 국민당을 대표하여 하원과 상원의원을 지낸 것을 포함해 일련의 저명한 직책들로 기록되어 있습니다. 랭킨의 생애는 1957년 12월 28일 마감되었으며, 빅토리아주 로체스터에서 결혼한 헌신적인 아내 애니 이사벨라 올리버를 유족으로 남겼습니다.",
+                "llama3.2-1b-instruct_qa": [
+                    {
+                        "question": "조지 랭킨의 출생지는 어디였나요?",
+                        "answer": "빅토리아주 바맘",
+                        "full_answer": "그는 빅토리아주 바맘에서 태어났습니다."
+                    },
+                    {
+                        "question": "조지 랭킨의 직업은 무엇이었나요?",
+                        "answer": "호주의 군인이자 정치인",
+                        "full_answer": "그는 하원과 상원에서 모두 활동했습니다."
+                    },
+                    {
+                        "question": "조지 랭킨은 언제 태어났나요?",
+                        "answer": "1887년 5월 1일",
+                        "full_answer": "그는 1887년 5월 1일에 태어났습니다."
+                    }
+                ]
+            },
+            {
+                "pid": 2,
+                "passage": "조지 클라우스 랭킨(George Claus Rankin) 경, PC(1877년 8월 12일 ~ 1946년 4월 8일)은 인도의 영국인 판사였습니다. 랭킨은 라나크셔(Lanarkshire) 라밍턴(Lamington)에서 로버트 랭킨 목사의 아들로 태어났습니다. 그는 에든버러 대학교와 케임브리지 대학교 트리니티 칼리지에서 교육을 받았습니다. 링컨 법학원(Lincoln's Inn)에 입소하여 1904년 변호사 자격을 취득했습니다. 제1차 세계 대전 당시 왕립 요새 포병대(Royal Garrison Artillery)에서 복무했습니다. 1918년 인도로 건너가 처음에는 캘커타 고등법원의 배석 판사로 근무했고, 이후 1926년부터 1934년까지 대법원장을 역임했습니다. 재임 기간 중...",
+                "llama3.2-1b-instruct_rewrite": "영국 사법 체계에서 화려한 경력을 쌓은 저명한 법학자 조지 클라우스 랭킨 경은 인도의 법조계에 지울 수 없는 발자취를 남겼습니다. 1877년 라나크셔 라밍턴에서 태어난 그는 지역 사회의 존경받는 인물인 로버트 랭킨 목사의 장남이었습니다. 랭킨은 에든버러 대학교에서 학사 학위를, 케임브리지 대학교 트리니티 칼리지에서 석사 학위를 받으며 학업에 정진했습니다. 정규 교육을 마친 후 법조계에 입문하여 1904년 링컨 법학원에서 변호사 자격을 얻었습니다.\n\n영국 법원 시스템에서의 그의 화려한 경력은 수십 년에 걸쳐 이어졌으며, 다양한 직책을 수행했습니다. 1918년부터 1926년까지 캘커타 고등법원의 배석 판사로 재직하며 중요한 이정표를 세웠고, 1926년부터 1934년까지 대법원장으로 임명되어 인도 법학계의 선구적인 인물로 자리매김했습니다. 랭킨은 평생 정의의 원칙과 법치주의에 대한 변함없는 헌신을 보여주었으며, 인도 법제사에 영원한 유산을 남겼습니다.",
+                "llama3.2-1b-instruct_qa": [
+                    {
+                        "question": "프랑스의 수도는 어디인가요?",
+                        "answer": "파리",
+                        "full_answer": "프랑스의 수도는 파리입니다."
+                    },
+                    {
+                        "question": "조지 클라우스 랭킨의 아버지는 누구였나요?",
+                        "answer": "로버트 랭킨 목사",
+                        "full_answer": "로버트 랭킨 목사"
+                    },
+                    {
+                        "question": "조지 클라우스 랭킨이 캘커타 고등법원의 대법원장으로 재직한 기간은 언제인가요?",
+                        "answer": "1926년부터 1934년까지",
+                        "full_answer": "그는 1918년부터 1926년까지 캘커타 고등법원의 배석 판사로 근무했습니다."
+                    }
+                ]
+            }
+        ],
+        "passages": [
+            "조지 랭킨 소장, 본명 조지 제임스 랭킨(1887년 5월 1일 ~ 1957년 12월 28일)은 호주의 군인이자 정치인이었습니다. 그는 호주 국민당을 대표하여 하원과 상원에서 모두 활동했습니다. 랭킨은 빅토리아주 바맘에서 아일랜드 출신 농부 제임스 랭킨과 사라(본성 갤러허) 사이의 열 번째 자녀로 태어났습니다. 그는 현지 주립 학교를 다녔으며 농부가 되었습니다. 1907년 민병대에 입대했고, 1909년 제9 경기병 연대의 장교로 임명되었습니다. 1912년 7월 7일 빅토리아주 로체스터에서 애니 이사벨라 올리버와 결혼했습니다. 1914년에는...",
+            "매장되었으며, 유족으로는 아내가 있습니다. 조지 랭킨 소장, 본명 조지 제임스 랭킨(1887년 5월 1일 ~ 1957년 12월 28일)은 호주의 군인이자 정치인이었습니다. 그는 호주 국민당을 대표하여 하원과 상원에서 모두 활동했습니다. 랭킨은 빅토리아주 바맘에서 아일랜드 출신 농부 제임스 랭킨과 사라(본성 갤러허) 사이의 열 번째 자녀로 태어났습니다. 그는 현지 주립 학교를 다녔으며 농부가 되었습니다. 1907년 민병대에 입대했고, 1909년 제9 경기병 연대의 장교로 임명되었습니다. 그는 7일 빅토리아주 로체스터에서 애니 이사벨라 올리버와 결혼했습니다.",
+            "조지 클라우스 랭킨 경, PC(1877년 8월 12일 ~ 1946년 4월 8일)은 인도의 영국인 판사였습니다. 랭킨은 라나크셔 라밍턴에서 로버트 랭킨 목사의 아들로 태어났습니다. 그는 에든버러 대학교와 케임브리지 대학교 트리니티 칼리지에서 교육을 받았습니다. 링컨 법학원에 입소하여 1904년 변호사 자격을 취득했습니다. 제1차 세계 대전 당시 왕립 요새 포병대에서 복무했습니다. 1918년 인도로 건너가 처음에는 캘커타 고등법원의 배석 판사로 근무했고, 이후 1926년부터 1934년까지 대법원장을 역임했습니다. 재임 기간 중..."
+        ]
+    }
+]
